@@ -3,6 +3,13 @@ plan to design and build my own PCI/PCIe cards
 
 
 
+```
+https://pinoutguide.com/Slots/pci_express_pinout.shtml
+```
+
+
+
+
 
 **LAPTOP**
 
