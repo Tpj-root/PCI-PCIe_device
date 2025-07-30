@@ -22,6 +22,12 @@ The differential pins [Lanes] listed in the pin out table above are LVDS which s
 ```
 https://pinoutguide.com/Slots/pci_express_pinout.shtml
 
+https://docs.nvidia.com/networking/display/mbf1600vpi/pin+description#src-19814147_PinDescription-PCIeGen3.0throughTwoCABLINE-CAIIPLUSConnectors
+
+https://developer.arm.com/documentation/102444/1-0/Target-interface-connectors/PCIe-Card-connectors
+
+
+https://developer.arm.com/documentation/102444/1-0/Target-interface-connectors/Target-connector-selection-guide
 ```
 
 
