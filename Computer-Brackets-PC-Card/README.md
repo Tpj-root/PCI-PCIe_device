@@ -7,9 +7,9 @@ plan to design and build my own PCI/PCIe cards
 
 
 
-## ![](Computer-Brackets-PC-Card/image/group_cb_brackets.jpg)
-## ![](Computer-Brackets-PC-Card/image/Group_of_Blank.jpg)
-## ![](Computer-Brackets-PC-Card/image/Group_of_cutouts.jpg)
+## ![](image/group_cb_brackets.jpg)
+## ![](image/Group_of_Blank.jpg)
+## ![](image/Group_of_cutouts.jpg)
 
 ```
 https://www.keyelco.com/category.cfm/Brackets-Computer-Mounting/Computer-Brackets-PC-Card/id/427
